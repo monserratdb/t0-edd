@@ -1,0 +1,19 @@
+/bin
+/tests
+/obj
+__pycache__/
+.py[co]
+/.ccls-cache/
+
+# direnv folder
+/.direnv/
+
+# programs (with / at the beginning)
+/part-a
+
+# other
+output.txt
+.edd-cache
+
+# compiled
+/ship
